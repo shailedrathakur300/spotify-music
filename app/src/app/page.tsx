@@ -3,6 +3,7 @@ export default function Home() {
     <>
       <div>home</div>
       <div>new</div>
+      <div>new</div>
     </>
   )
 }
