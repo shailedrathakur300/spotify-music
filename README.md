@@ -1,3 +1,3 @@
 # spotify-music
 
-this is project for show case
+this is project for show case my
