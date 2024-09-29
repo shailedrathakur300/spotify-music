@@ -1,3 +1,3 @@
 # spotify-music
 
-this is project for show case my knowledge about the
+this is project for show case my knowledge about the next.js
