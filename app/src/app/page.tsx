@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Hel</div>
+  return <div>He</div>
 }
