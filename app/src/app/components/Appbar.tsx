@@ -26,7 +26,7 @@ export function Appbar() {
             </button>
           )}
         </div>
-        <div>th</div>
+        <div>new</div>
       </div>
     </div>
   )
