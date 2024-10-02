@@ -26,7 +26,7 @@ export function Appbar() {
             </button>
           )}
         </div>
-        <div>see</div>
+        <div>but</div>
       </div>
     </div>
   )
