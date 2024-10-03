@@ -12,4 +12,4 @@ const handler = NextAuth({
 
 export { handler as GET, handler as POST };
 
---todo add email
+--todo add email provider
