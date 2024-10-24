@@ -19,3 +19,4 @@ findIndex('Hello World World', 'World')
 /* we learn till now - length,lastIndexof,indexof */
 //
 findIndex('Hello World World', 'World')
+findIndex('Hello World World', 'World')
